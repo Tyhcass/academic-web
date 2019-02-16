@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Student in Political Science"
+  company = "University of Iowa"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Iowa"
+  date_start = "2017-08-23"
   date_end = ""
   description = """
-  Responsibilities include:
+  Interests include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Internet Politics
+  * Authoritarian responsiveness
+  * Political Methodology
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "MSc"
+  company = "Nanyang Technological University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Singapore"
+  date_start = "2007-08-21"
+  date_end = "2008-07-21"
+  
 
 +++
