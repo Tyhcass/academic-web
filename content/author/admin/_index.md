@@ -6,31 +6,31 @@ name = "Cassandra Yuehong Tai"
 superuser = true
 
 # Role/position
-role = "Graduate Student"
+role = "Graduate student in a Ph.D. program"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Iowa", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Internet Politics, public opinion, political communication, authoritarian responsiveness."
+bio = "My research interests include Digital Politics, comparative public opinion, political communication, authoritarian responsiveness."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Internet politics",
-  "Public opinion",
+  "Digital politics",
+  "Comparative Public opinion",
   "Authoritarian responsiveness",
   "Political Methodology"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Graduate student in Political Science"
+  course = "Ph.D. program in Political Science"
   institution = "University of Iowa"
-  year = "present"
+  year = "2017-present"
 
 [[education.courses]]
   course = "MSc in International Political Economy"
@@ -77,5 +77,5 @@ interests = [
 +++
 
 Cassandra Yuehong Tai is a graduate student in political science at University of Iowa. Her research interests include 
-Internet politics, political communication, authoritarian responsiveness, and latent variable measurement.
+digital politics, comparative public opinion, authoritarian responsiveness, and latent variable measurement.
 

@@ -19,17 +19,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Student in Political Science"
+  title = "Ph.D. program in Political Science"
   company = "University of Iowa"
   company_url = ""
-  location = "Iowa"
+  location = "Iowa,U.S.A"
   date_start = "2017-08-23"
   date_end = ""
   description = """
   Interests include:
   
-  * Internet Politics
-  * Authoritarian responsiveness
+  * Digital Politics
+  * Comparative Public Opinon
+  * Authoritarian Responsiveness
   * Political Methodology
   """
 
@@ -40,6 +41,16 @@ date_format = "January 2006"
   location = "Singapore"
   date_start = "2007-08-21"
   date_end = "2008-07-21"
+  description = """
+  """
+  
+[[experience]]
+  title = "LL.B"
+  company = "Renmin University of China"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2003-09-10"
+  date_end = "2007-06-21"
   
 
 +++
